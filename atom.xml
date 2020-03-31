@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://pufanyi.gitee.io/"/>
-  <updated>2020-03-18T16:00:00.000Z</updated>
+  <updated>2020-03-31T01:59:58.000Z</updated>
   <id>https://pufanyi.gitee.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AGC043D Merge Triplets</title>
+    <link href="https://pufanyi.gitee.io/agc043_d/"/>
+    <id>https://pufanyi.gitee.io/agc043_d/</id>
+    <published>2020-03-31T01:59:58.000Z</published>
+    <updated>2020-03-31T01:59:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue Mar 31 2020 11:16:22 GMT+0800 (GMT+08:00) --><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Mar 31 2020 11:16:22 GMT+0800 (GMT+08:00) --&gt;&lt;!-- rebuild by neat --&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="题解" scheme="https://pufanyi.gitee.io/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="DP" scheme="https://pufanyi.gitee.io/tags/DP/"/>
+    
+      <category term="AtCoder" scheme="https://pufanyi.gitee.io/tags/AtCoder/"/>
+    
+  </entry>
   
   <entry>
     <title>AGC041F Histogram Rooks</title>
@@ -73,17 +101,19 @@
     <published>2020-03-04T16:00:00.000Z</published>
     <updated>2020-03-04T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Sun Mar 29 2020 08:57:09 GMT+0800 (GMT+08:00) --><p>由于最近 <a href="//pufanyi.github.io" target="_blank" rel="noopener">github.io</a> 有些不稳定，我做了个 <a href="//pufanyi.gitee.io"> 镜像</a>，会不定期同步博客上的内容。</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Tue Mar 31 2020 11:16:22 GMT+0800 (GMT+08:00) --><p>由于最近 <a href="//pufanyi.github.io" target="_blank" rel="noopener">github.io</a> 有些不稳定，我做了个 <a href="//pufanyi.gitee.io"> 镜像</a>，会不定期同步博客上的内容。</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Mar 29 2020 08:57:09 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;由于最近 &lt;a href=&quot;//pufanyi.github.io&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;github
+        &lt;!-- build time:Tue Mar 31 2020 11:16:22 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;由于最近 &lt;a href=&quot;//pufanyi.github.io&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;github
       
     
     </summary>
     
+    
+      <category term="公告" scheme="https://pufanyi.gitee.io/categories/%E5%85%AC%E5%91%8A/"/>
     
     
   </entry>
@@ -485,29 +515,6 @@
     
     
       <category term="生成树" scheme="https://pufanyi.gitee.io/tags/%E7%94%9F%E6%88%90%E6%A0%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>线段树入门</title>
-    <link href="https://pufanyi.gitee.io/%E7%BA%BF%E6%AE%B5%E6%A0%91%E5%85%A5%E9%97%A8/"/>
-    <id>https://pufanyi.gitee.io/%E7%BA%BF%E6%AE%B5%E6%A0%91%E5%85%A5%E9%97%A8/</id>
-    <published>2020-01-26T16:00:00.000Z</published>
-    <updated>2020-01-26T16:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<!-- build time:Sat Mar 28 2020 14:22:32 GMT+0800 (GMT+08:00) --><p> 万年不更了，决定扔点什么东西上来凑数吧。</p><a id="more"></a><div class="row"><embed src="slides.pdf" width="100%" height="550" type="application/pdf"></div><!-- rebuild by neat -->]]></content>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Sat Mar 28 2020 14:22:32 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;万年不更了，决定扔点什么东西上来凑数吧。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="小小结" scheme="https://pufanyi.gitee.io/categories/%E5%B0%8F%E5%B0%8F%E7%BB%93/"/>
-    
-    
-      <category term="树状数组/线段树" scheme="https://pufanyi.gitee.io/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84-%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
     
   </entry>
   

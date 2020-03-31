@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>AGC043D Merge Triplets</title>
+      <link href="/agc043_d/"/>
+      <url>/agc043_d/</url>
+      
+        <content type="html"><![CDATA[<!-- build time:Tue Mar 31 2020 11:16:22 GMT+0800 (GMT+08:00) --><!-- rebuild by neat -->]]></content>
+      
+      
+      <categories>
+          
+          <category> 题解 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> DP </tag>
+            
+            <tag> AtCoder </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>AGC041F Histogram Rooks</title>
       <link href="/agc041_f/"/>
       <url>/agc041_f/</url>
@@ -62,8 +89,14 @@
       <link href="/gitee%E9%95%9C%E5%83%8F/"/>
       <url>/gitee%E9%95%9C%E5%83%8F/</url>
       
-        <content type="html"><![CDATA[<!-- build time:Sun Mar 29 2020 08:57:09 GMT+0800 (GMT+08:00) --><p>由于最近 <a href="//pufanyi.github.io" target="_blank" rel="noopener">github.io</a> 有些不稳定，我做了个 <a href="//pufanyi.gitee.io"> 镜像</a>，会不定期同步博客上的内容。</p><!-- rebuild by neat -->]]></content>
+        <content type="html"><![CDATA[<!-- build time:Tue Mar 31 2020 11:16:22 GMT+0800 (GMT+08:00) --><p>由于最近 <a href="//pufanyi.github.io" target="_blank" rel="noopener">github.io</a> 有些不稳定，我做了个 <a href="//pufanyi.gitee.io"> 镜像</a>，会不定期同步博客上的内容。</p><!-- rebuild by neat -->]]></content>
       
+      
+      <categories>
+          
+          <category> 公告 </category>
+          
+      </categories>
       
       
     </entry>
