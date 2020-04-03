@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://pufanyi.gitee.io/about/index.html</loc>
+    
+    <lastmod>2020-04-03T04:34:57.066Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://pufanyi.gitee.io/agc043_c/</loc>
+    
+    <lastmod>2020-04-03T04:15:57.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://pufanyi.gitee.io/agc043_d/</loc>
     
     <lastmod>2020-03-31T01:59:58.000Z</lastmod>
@@ -40,13 +54,6 @@
     <loc>https://pufanyi.gitee.io/tags/index.html</loc>
     
     <lastmod>2020-03-28T06:14:44.551Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://pufanyi.gitee.io/about/index.html</loc>
-    
-    <lastmod>2020-03-28T06:14:44.175Z</lastmod>
     
   </url>
   
