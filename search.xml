@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>退役啦！</title>
+      <link href="/AFO/"/>
+      <url>/AFO/</url>
+      
+        <content type="html"><![CDATA[<!-- build time:Thu Jun 18 2020 21:39:56 GMT+0800 (GMT+08:00) --><p>嘴里说着退役，不知不觉就真的退役了。</p><a id="more"></a><p>想起来已经两年半了。从弃了文化课来搞 OI，到现在又得滚回去搞文化课，真是一段有意思的经历。</p><p>两年前，打字还要看着键盘，<s>然而现在还是不会背键盘 </s>；场场模拟赛爆蛋，<s> 然而现在还是只会爆蛋 </s>。</p><p>NOIP2018 初赛直接挂了，险些退役。回想起来那种自闭的感觉确实挺有意思的。</p><p>CSP2019 好不容易过了初赛，结果复赛爆炸，Day1T3 写不出来，Day2T1 有被卡常。</p><p> 考完 CSP 去打 CodeForces，好不容易要上 IM 了，连续几场 fst 直接一夜回到解放前。</p><p>后来文化课压力逐渐重了起来，毕竟是要高考了。</p><p>不管怎么说，总算是 AFO 了。</p><p>还有几篇博客没填完的，就让她们鸽这吧（</p><p>不知道以后再有没有机会打 CF 了：</p><p><img src="codeforces.png" alt=""></p><p>不知道以后再有没有机会刷洛谷了：</p><p><img src="luogu.png"alt=""></p><!-- rebuild by neat -->]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Pollard Rho 入门</title>
       <link href="/Rho/"/>
       <url>/Rho/</url>
