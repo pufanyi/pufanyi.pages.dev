@@ -739,13 +739,6 @@
   </url>
   
   <url>
-    <loc>https://pufanyi.gitee.io/tags/SPOJ/</loc>
-    <lastmod>2021-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://pufanyi.gitee.io/tags/hash/</loc>
     <lastmod>2021-08-07</lastmod>
     <changefreq>daily</changefreq>
@@ -767,6 +760,13 @@
   </url>
   
   <url>
+    <loc>https://pufanyi.gitee.io/tags/%E7%94%9F%E6%88%90%E6%A0%91/</loc>
+    <lastmod>2021-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://pufanyi.gitee.io/tags/ZJOI/</loc>
     <lastmod>2021-08-07</lastmod>
     <changefreq>daily</changefreq>
@@ -781,7 +781,7 @@
   </url>
   
   <url>
-    <loc>https://pufanyi.gitee.io/tags/%E7%94%9F%E6%88%90%E6%A0%91/</loc>
+    <loc>https://pufanyi.gitee.io/tags/SPOJ/</loc>
     <lastmod>2021-08-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
