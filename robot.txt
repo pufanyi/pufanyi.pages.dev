@@ -9,4 +9,4 @@ Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/
 
-Sitemap: https://pufanyi.gitee.io/sitemap.xml
+Sitemap: https://pufanyi.pages.dev/sitemap.xml
